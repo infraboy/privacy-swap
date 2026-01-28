@@ -1,0 +1,35 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.secret
+credentials*
+
+# Logs
+*.log
+logs/
+
+# Test artifacts
+*.profraw
+
+# Security documentation (internal)
+SECURITY*.md
+ATTACK_REPORT.md
+PRIVACY_BEST_PRACTICES.md
