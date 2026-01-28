@@ -33,3 +33,9 @@ logs/
 SECURITY*.md
 ATTACK_REPORT.md
 PRIVACY_BEST_PRACTICES.md
+
+# Remotion
+.remotion/
+
+# Hackathon answers (private)
+answers.md
